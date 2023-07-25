@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on <a href="https://no69.eu/">no69.eu</a>
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **PHP** and **JavaScript**
 
 - 👨‍💻 My CS:GO & CS 1.6 network <a href="https://1shot2kill.pl/">1shot2kill.pl</a>
 
