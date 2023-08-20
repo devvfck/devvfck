@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **PHP** and **JavaScript**
 
-- 👨‍💻 The CS:GO & CS 1.6 network I'm on - <a href="https://1shot2kill.pl/profile/51590-devv/">1shot2kill.pl</a>
+- 👨‍💻 Themes and applications for the Invision Community engine - <a href="https://forum.graffhub.eu/profile/2-devv/">graffhub.eu</a>
 
 <h3 align="left">Connect with me - <a href="https://discord.gg/7yBhaHnZHB">click</a></h3>
 
